@@ -49,8 +49,4 @@ ISC
 
 ` pokhrel000007@gmail.com`
 
-**Tips:**
 
-- Use clear language and formatting.
-- Add badges (build status, coverage, downloads).
-- Keep it up to date.
