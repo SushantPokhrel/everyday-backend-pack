@@ -47,6 +47,6 @@ ISC
 
 ## Contact / Support
 
-` pokhrel000007@gmail.com`
+` pokhrel00007@gmail.com`
 
 
