@@ -1,0 +1,62 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+.env.*       # in case you use .env.development etc.
+
+# Debug and test output
+coverage/
+.nyc_output/
+test-output/
+*.tsbuildinfo
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Optional npm cache folders
+.npm/
+.cache/
+
+# Local MongoDB data (if you accidentally dump here)
+dump/
+data/
+
+# PM2 process files
+pids/
+*.pm2.log
+
+# Build outputs
+dist/
+build/
+
+# TypeScript outputs (if applicable)
+*.js
+*.js.map
+*.d.ts
+
+# Swagger or generated docs
+docs/
+swagger.json
+swagger.yaml
